@@ -1,0 +1,5 @@
+PORT=8000
+MONGO_URI=mongodb://localhost:27017/yapperDB
+
+JWT Key
+xE3/QxtCzpz0p3daCfAtqoCvnJ3SxSuBy+zUvT8/oRU=
