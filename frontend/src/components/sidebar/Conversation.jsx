@@ -10,7 +10,7 @@ const Conversation = () => {
 
         <div className="flex flex-col flex-1">
           <div className="flex gap-3 justify-between">
-            <p className="flex-bold text-gray-200 ">Joey Tribbi</p>
+            <p className="flex-bold text-white ">Joey Tribbi</p>
             <span className="text-xl">❤️</span>
           </div>
         </div>
