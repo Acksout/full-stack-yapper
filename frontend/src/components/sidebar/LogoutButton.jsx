@@ -1,12 +1,18 @@
-import React from "react";
-import { LuLogOut } from "react-icons/lu";
+import {LuLogOut} from "react-icons/lu";
+import useLogout from "../../hooks/useLogout.js";
+
 
 const LogoutButton = () => {
-  return (
-    <div className="mt-auto">
-      <LuLogOut className="text-white cursor-pointer transform rotate-180 flip-x size-6" />
-    </div>
-  );
+    const {loading, logout} = useLogout();
+
+    return (
+        <div className="mt-auto">
+            {!loading ? (<LuLogOut onClick={logout}
+                                   className="rotate-180 transform cursor-pointer text-white flip-x size-6"/>) : (
+                <span className="loading loading-spinner"></span>)}
+
+        </div>
+    );
 };
 
 export default LogoutButton;

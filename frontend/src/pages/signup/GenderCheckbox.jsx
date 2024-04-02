@@ -1,6 +1,3 @@
-
-import React from "react";
-
 const GenderCheckbox = ({onCheckboxChange, selectedGender}) => {
     return (
         <div className="flex">
@@ -10,7 +7,9 @@ const GenderCheckbox = ({onCheckboxChange, selectedGender}) => {
                     <input
                         type="checkbox"
                         checked={selectedGender === "He"}
-                        onChange={() => {onCheckboxChange("He")}}
+                        onChange={() => {
+                            onCheckboxChange("He")
+                        }}
                         className="checkbox checkbox-primary"
                     />
                 </label>
