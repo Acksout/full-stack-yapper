@@ -34,10 +34,7 @@
 
 # Screenshots
 
-<img src="https://prnt.sc/-6g_o59fX9g4">
-
-<img src="https://prnt.sc/jDZAwI71S4RI">
-
-<img src="https://prnt.sc/sgGKdLTsbeZ_">
-
-<img src="https://prnt.sc/GO-vBp8MHjIf">
+![Screenshot](https://beeimg.com/images/n46397188313.png)
+![Screenshot](https://beeimg.com/images/b43304832083.png)
+![Screenshot](https://beeimg.com/images/p79538454694.png)
+![Screenshot](https://beeimg.com/images/m31214888593.png)
