@@ -2,6 +2,9 @@
 
 ## Yapper - A Chat App
 
+# 🎥 Video
+[![Watch the video](https://i.imgur.com/ILRo9ZX.png)](https://youtu.be/fO8BFyh4XbQ)
+
 #### Pretty simple and beautiful app. Chat with anyone who has signed up and you're good to go.
 
 - You can Signup/Login and your credentials will be safe casue they are hashed.
